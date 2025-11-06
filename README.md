@@ -39,7 +39,7 @@ A complete serverless event management system built on AWS cloud services. Users
 ![Main Interface](images/main-interface.jpg)
 
 ### Events List & Subscription System
-![Events and Subscriptions](images/event-list and subscription confirmation.jpg)
+![Events and Subscriptions](images/event-list-and-subscription-confirmation.jpg)
 
 ### Email Notification Proof
 ![Email Notifications](images/email-notification.jpg)
