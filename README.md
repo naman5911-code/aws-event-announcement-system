@@ -2,9 +2,6 @@
 
 A complete serverless event management system built on AWS cloud services. Users can create events, subscribe to notifications, and receive real-time email updates.
 
-## ✨ Live Demo
-[**View Live Application**](#) <!-- We'll add your link later -->
-
 ## 📋 Features
 - ✅ **Event Creation** - Create new events with name and date/time
 - ✅ **Email Subscriptions** - Users can subscribe/unsubscribe to notifications  
@@ -81,8 +78,8 @@ A complete serverless event management system built on AWS cloud services. Users
 ## 👨‍💻 Author
 
 **Namandeep Singh** - Computer Science Graduate
-- [Portfolio](#) <!-- Add your portfolio link later -->
-- [LinkedIn](#) <!-- Add your LinkedIn link later -->
+- [Portfolio](https://naman5911-code.github.io/.github.io/)
+- [LinkedIn](www.linkedin.com/in/namandeep-singh-31b2412a1)
 
 ---
 
